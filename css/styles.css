@@ -1,0 +1,14 @@
+img {
+    float: left;
+
+  }
+
+  .side {
+    width: 30%;
+    float: right;
+    background-color: blueviolet;
+  }
+  .man {
+      background-color: greenyellow;
+      width: 70%;
+  }
